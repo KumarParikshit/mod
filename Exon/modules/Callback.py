@@ -232,8 +232,8 @@ def Source_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ꜱᴏᴜʀᴄᴇ",
-                            url="https://github.com/itz-jeol/ROCKY",  # DON'T CHANGE
+                            text="Bhaag Ja Madharchodh",
+                            
                         ),
                     ],
                 ]
